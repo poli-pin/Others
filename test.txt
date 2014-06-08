@@ -3,3 +3,5 @@ I'm testing cvn.
 Just a test with git!
 
 1/ First test making a conflict!
+
+2/ Just try to make a conflict. The conflict is successful.
