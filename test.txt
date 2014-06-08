@@ -2,3 +2,4 @@ Hello, World!
 I'm testing cvn.
 Just a test with git!
 :))
+Just try to make a conflict.
