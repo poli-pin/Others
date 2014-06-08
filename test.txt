@@ -1,4 +1,5 @@
 Hello, World!
 I'm testing cvn.
 Just a test with git!
-:))
+
+1/ First test making a conflict!
